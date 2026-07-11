@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Muhammad Rehan Azam</h1>
 
 <p align="center">
@@ -158,4 +158,3 @@
 ⭐ Thanks for visiting my profile! <br>
 I'm always open to learning, collaborating, and building impactful software.
 </p>
-```
