@@ -101,6 +101,9 @@
 
 ---
 
+
+
+
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -109,7 +112,7 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muhammadrehanazam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muhammadrehanazam&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Languages" />
 </p>
 
 ---
